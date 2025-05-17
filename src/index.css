@@ -1,0 +1,19 @@
+@import url(https://fonts.googleapis.com/css?family=Inter:100,200,300,regular,500,600,700,800);
+
+@import "tailwindcss";
+
+@theme {
+  --color-gray: #5a5959;
+  --color-yellow: #ffeaae;
+  --color-dark-yellow: #ffca3f;
+  --color-orange: #f6820c;
+  --font-inter: Inter, sans;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #323334;
+}
