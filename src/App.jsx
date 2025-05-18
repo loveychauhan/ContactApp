@@ -1,4 +1,3 @@
-import "./app.css";
 import Navbar from "./component/Navbar";
 import { FiSearch } from "react-icons/fi";
 import { AiFillPlusCircle } from "react-icons/ai";
